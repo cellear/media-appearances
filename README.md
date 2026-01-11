@@ -38,10 +38,12 @@ Guest post for the official Drupal.org AI Initiative blog, covering community en
 
 ## Video Content & Interviews
 
-### YouTube Playlist - Technical Talks & Interviews
-**[Watch my talks and technical interviews](https://youtube.com/playlist?list=PLmPB9mMsHZp0NwMShDUgsmgU6BGsh1Lmo&si=G_4br9SkhS9K3TX9)**
+### YouTube Channel - Technical Talks & Interviews
+**[Watch my talks and technical interviews](https://www.youtube.com/@LukeMcCormick-cellear)**
 
 Collection of conference presentations, technical interviews, and community discussions covering CMS architecture, AI tools, migration strategies, and developer workflows.
+
+**Featured Playlist:** [Media Appearances & Talks](https://youtube.com/playlist?list=PLmPB9mMsHZp0NwMShDUgsmgU6BGsh1Lmo&si=G_4br9SkhS9K3TX9)
 
 ### Technical Interviews Conducted
 
